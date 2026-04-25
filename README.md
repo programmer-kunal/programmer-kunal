@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-# 👋 Hi, I'm Kunal
+## 👋 Hi, I'm Kunal
 💻 Beginner Android Developer  
 🚀 Learning Jetpack Compose & Kotlin  
 🎯 Goal: Become a strong Android Devloper  
