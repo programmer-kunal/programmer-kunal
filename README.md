@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 - Kotlin
 - Java
-- Jetpack Compose (basic)
+- Jetpack Compose
 - Git & GitHub  
 
 ---
