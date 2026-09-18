@@ -1,3 +1,4 @@
+
 <!-- ===================== ANIMATED HEADER ===================== -->
 
 <div align="center">
@@ -27,6 +28,10 @@ Building modern Android applications with
 
 <a href="https://github.com/programmer-kunal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kunal137">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kunalbhai137@gmail.com">
@@ -68,31 +73,31 @@ Context
 Intelligence
    ↓
 Assistance
-```
+````
 
 ### 🤖 Four Integrated AI Features
 
-| Feature | Purpose |
-|---|---|
-| 🤖 **Smart Reply** | Generates contextual reply suggestions using tone, sentiment, intent, and urgency |
-| 📝 **Thread Summary** | Extracts key points, decisions, tasks, and deadlines |
-| 🔎 **Context Search** | Retrieves relevant information from conversation context |
-| 🛡️ **Scam Guard** | Analyzes selected messages for possible scam and phishing indicators |
+| Feature               | Purpose                                                                           |
+| --------------------- | --------------------------------------------------------------------------------- |
+| 🤖 **Smart Reply**    | Generates contextual reply suggestions using tone, sentiment, intent, and urgency |
+| 📝 **Thread Summary** | Extracts key points, decisions, tasks, and deadlines                              |
+| 🔎 **Context Search** | Retrieves relevant information from conversation context                          |
+| 🛡️ **Scam Guard**    | Analyzes selected messages for possible scam and phishing indicators              |
 
 ### 📱 Communication Features
 
-- 💬 One-to-one and group messaging
-- 📷 Image sharing
-- 🎤 Voice messages
-- 🎥 Video messaging
-- 📎 Document and file sharing
-- 📞 Voice calling
-- 📹 Video calling
-- 👥 Friend system
-- 🟢 Online / offline presence
-- ✅ Read receipts
-- 🔔 Push notifications
-- 🔁 Reply and quoted-message system
+* 💬 One-to-one and group messaging
+* 📷 Image sharing
+* 🎤 Voice messages
+* 🎥 Video messaging
+* 📎 Document and file sharing
+* 📞 Voice calling
+* 📹 Video calling
+* 👥 Friend system
+* 🟢 Online / offline presence
+* ✅ Read receipts
+* 🔔 Push notifications
+* 🔁 Reply and quoted-message system
 
 ### 🛠️ KChat Stack
 
@@ -130,10 +135,10 @@ AI assists the user but does not automatically send messages.
 
 ## 📱 Android Development
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge\&logo=jetpackcompose\&logoColor=white)
 ![Material 3](https://img.shields.io/badge/Material_3-6750A4?style=for-the-badge)
 
 ## 🏗️ Architecture & Development
@@ -145,21 +150,21 @@ AI assists the user but does not automatically send messages.
 
 ## ☁️ Backend & Cloud
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ## 🤖 AI
 
-![Firebase AI Logic](https://img.shields.io/badge/Firebase_AI_Logic-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_3.5_Flash--Lite-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Firebase AI Logic](https://img.shields.io/badge/Firebase_AI_Logic-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_3.5_Flash--Lite-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
 
 ## 🔧 Tools
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
@@ -173,11 +178,11 @@ Modern coffee ordering application built with Jetpack Compose.
 
 ### 🎯 Other Development Work
 
-- 🧑‍💻 Face Recognition Attendance System
-- 🍔 Food Ordering Application
-- 🎮 Android Mini Projects
-- 🌐 Front-End Web Projects
-- 🧮 Utility Android Applications
+* 🧑‍💻 Face Recognition Attendance System
+* 🍔 Food Ordering Application
+* 🎮 Android Mini Projects
+* 🌐 Front-End Web Projects
+* 🧮 Utility Android Applications
 
 ---
 
@@ -207,6 +212,10 @@ Real-World Applications
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/kunal137">
+<img src="https://img.shields.io/badge/LinkedIn-kunal137-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:kunalbhai137@gmail.com">
 <img src="https://img.shields.io/badge/Email-kunalbhai137%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -230,3 +239,4 @@ Real-World Applications
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:4285F4,100:3DDC84&height=120&section=footer&animation=fadeIn"/>
 
 </div>
+
