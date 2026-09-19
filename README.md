@@ -9,11 +9,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Android+App+Developer;Kotlin+%7C+Jetpack+Compose;Firebase+%7C+Supabase;Contextual+AI+%7C+Gemini;Building+Modern+Android+Applications"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
 
-<br/><br/>
+<br/>
 
 # 👋 Hi, I'm Kunal
 
@@ -38,7 +38,7 @@ Building modern Android applications with
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 </div>
 
