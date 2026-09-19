@@ -84,41 +84,6 @@ Assistance
 | 🔎 **Context Search** | Retrieves relevant information from conversation context                          |
 | 🛡️ **Scam Guard**    | Analyzes selected messages for possible scam and phishing indicators              |
 
-### 📱 Communication Features
-
-* 💬 One-to-one and group messaging
-* 📷 Image sharing
-* 🎤 Voice messages
-* 🎥 Video messaging
-* 📎 Document and file sharing
-* 📞 Voice calling
-* 📹 Video calling
-* 👥 Friend system
-* 🟢 Online / offline presence
-* ✅ Read receipts
-* 🔔 Push notifications
-* 🔁 Reply and quoted-message system
-
-### 🛠️ KChat Stack
-
-`Kotlin` `Jetpack Compose` `MVVM` `Hilt` `StateFlow` `Firebase` `Firebase AI Logic` `Gemini 3.5 Flash-Lite` `Supabase` `ZEGOCLOUD`
-
-### 🔐 Human-in-the-Loop AI
-
-```text
-AI Suggests
-     ↓
-User Reviews
-     ↓
-User Edits
-     ↓
-User Decides
-     ↓
-Manual Action
-```
-
-AI assists the user but does not automatically send messages.
-
 <br/>
 
 <div align="center">
