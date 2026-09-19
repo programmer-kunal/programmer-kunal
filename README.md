@@ -187,9 +187,5 @@ Real-World Applications
 
 **Android Development × AI × Modern Applications**
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:4285F4,100:3DDC84&height=120&section=footer&animation=fadeIn"/>
-
 </div>
-
