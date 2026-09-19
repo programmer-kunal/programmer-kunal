@@ -89,9 +89,8 @@ Assistance
 <div align="center">
 
 <a href="https://github.com/programmer-kunal/KChat">
-<img src="https://img.shields.io/badge/🔗_View_KChat_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗_View_KChat_Repository-3159A6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
 
 ---
