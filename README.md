@@ -13,7 +13,7 @@
 Building modern Android applications with
 <b>Kotlin, Jetpack Compose, Firebase, Supabase, and AI-powered features.</b>
 </p>
-<br/>
+
 <a href="https://github.com/programmer-kunal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
