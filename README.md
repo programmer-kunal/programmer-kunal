@@ -1,18 +1,11 @@
-
-<!-- ===================== ANIMATED HEADER ===================== -->
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:4285F4,100:3DDC84&height=180&section=header&text=KUNAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Android+App+Developer;Kotlin+%7C+Jetpack+Compose;Firebase+%7C+Supabase;Contextual+AI+%7C+Gemini;Building+Modern+Android+Applications"/>
 </a>
-
 <br/>
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
-
 <br/>
 
 # 👋 Hi, I'm Kunal
