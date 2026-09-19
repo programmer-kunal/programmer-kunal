@@ -140,6 +140,15 @@ Assistance
 Modern coffee ordering application built with Jetpack Compose.
 
 **Stack:** Kotlin • Jetpack Compose • MVVM • REST APIs
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/programmer-kunal/Brewly">
+<img src="https://img.shields.io/badge/🔗_View_Brewly_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ### 🎯 Other Development Work
 
