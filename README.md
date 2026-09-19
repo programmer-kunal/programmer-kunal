@@ -150,14 +150,6 @@ Modern coffee ordering application built with Jetpack Compose.
 
 </div>
 
-### 🎯 Other Development Work
-
-* 🧑‍💻 Face Recognition Attendance System
-* 🍔 Food Ordering Application
-* 🎮 Android Mini Projects
-* 🌐 Front-End Web Projects
-* 🧮 Utility Android Applications
-
 ---
 
 # 🎯 Current Focus
