@@ -46,7 +46,7 @@ Building modern Android applications with
 
 # 🚀 Featured Project
 
-## 💬 KChat — AI-Powered Intelligent Real-Time Communication Platform
+## 💬 KChat — Make Messaging Smarter
 
 KChat is a modern Android communication platform that combines:
 
