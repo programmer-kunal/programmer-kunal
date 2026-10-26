@@ -46,7 +46,7 @@ Building modern Android applications with
 
 # 🚀 Featured Project
 
-## 💬 KChat — Make Messaging Smarter
+## 💬 K Chat: Make Messaging Smarter
 
 KChat is a modern Android communication platform that combines:
 
