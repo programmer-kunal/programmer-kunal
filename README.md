@@ -123,21 +123,21 @@ Assistance
 
 # 📌 Other Projects
 
-### ☕ Brewly
+### 🎬 S Finder: Discover What To Watch
 
-Modern coffee ordering application built with Jetpack Compose.
+Entertainment discovery app that helps users find movies and TV series by describing a story, mood, character, or memorable scene—even without remembering the title.
 
-**Stack:** Kotlin • Jetpack Compose • MVVM • REST APIs
+**Stack:** Kotlin • Jetpack Compose • MVVM • Cloudflare Workers • D1 SQLite • Gemini API
+
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/programmer-kunal/Brewly">
-<img src="https://img.shields.io/badge/☕_View_Brewly_Repository-8B5E3C?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/programmer-kunal/S-Finder">
+<img src="https://img.shields.io/badge/🎬_S_Finder:_Discover_What_To_Watch-78303C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
 ---
 
 # 🎯 Current Focus
