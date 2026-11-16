@@ -77,8 +77,8 @@ Assistance
 
 <div align="center">
 
-<a href="https://github.com/programmer-kunal/KChat">
-<img src="https://img.shields.io/badge/🔗 K Chat: Make Messaging Smarter-3159A6?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://play.google.com/store/apps/details?id=com.kunal.kchat">
+<img src="https://img.shields.io/badge/💬_Download_K_Chat-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 </div>
 
