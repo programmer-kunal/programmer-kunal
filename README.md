@@ -174,8 +174,8 @@ Real-World Applications
 <img src="https://img.shields.io/badge/Email-kunalbhai137%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/programmer-kunal">
-<img src="https://img.shields.io/badge/GitHub-programmer--kunal-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://play.google.com/store/apps/dev?id=7594727160353104737">
+<img src="https://img.shields.io/badge/Google_Play-Developer_Profile-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 
 </div>
