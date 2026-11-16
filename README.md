@@ -175,7 +175,7 @@ Real-World Applications
 </a>
 
 <a href="https://play.google.com/store/apps/dev?id=7594727160353104737">
-<img src="https://img.shields.io/badge/Google_Play-Developer_Profile-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Play-KAVTORS-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 
 </div>
